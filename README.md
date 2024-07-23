@@ -1,4 +1,4 @@
-### Hi, I'm Francisco Pineda! 👋
+<h1> Hi, I'm Francisco Pineda! 👋 </h1>
 
 Passionate Data Science 🦈 student currently in my second year of college. I believe in the transformative power of science and technology and their ability to make a profound impact on our world!
 
@@ -13,6 +13,9 @@ I'm always open to learning new things and connecting with like-minded individua
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Capital-Pickle-3847/)
 
 <br>
+<h2>Technologies I use</h2> 
+
+  
 
 <a href="https://github.com/pinedah/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinedah&show_icons=true" />
