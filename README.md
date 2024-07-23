@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/pinedah/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinedah" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinedah&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinedah&layout=donut" />
