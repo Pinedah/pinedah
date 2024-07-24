@@ -1,8 +1,6 @@
 <h1> Hi, I'm Francisco Pineda! 👋 </h1>
 
-Passionate Data Science 🦈 student currently in my second year of college. I believe in the transformative power of science and technology and their ability to make a profound impact on our world!
-I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I also love Mathematics 💖, it has always been a passion of mine
-I'm fascinated by the endless possibilities that science and technology offers and enjoy exploring new tools everyday! 
+Passionate Data Science 🦈 student currently in my second year of college. I believe in the transformative power of science and technology and their ability to make a profound impact on our world! I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I also love Mathematics 💖, it has always been my biggest passion. I'm fascinated by the endless possibilities that STEM power offers, and enjoy exploring new tools everyday!
 
 I'm always open to learning new things and connecting with like-minded individuals. 😼
 
