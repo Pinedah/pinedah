@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pinedah&label=PROFILE+VIEWS)
 
-Passionate Data Science 🦈 student currently in my second year of college. I believe in the transformative power of science and technology and their ability to make a profound impact on our world! I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I also love Mathematics 💖, it has always been my biggest passion. I'm fascinated by the endless possibilities that STEM power offers, and enjoy exploring new tools everyday!
+Passionate Data Science 🦈 student currently in my second year of college. I believe in the transformative power of science and technology ⚛️ and their ability to make a profound impact on our world! I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I also love Mathematics 💖, it has always been my biggest passion. I'm fascinated by the endless possibilities that STEM Power 🤖 offers, and enjoy exploring new tools everyday!
 
 I'm always open to learning new things and connecting with like-minded individuals. 😼
 
@@ -39,6 +39,6 @@ I'm always open to learning new things and connecting with like-minded individua
 
 <br><br>
 Beyond my academic pursuits: <br>
-  I'm a big fan of 🌟 Anime (strawhat). I also love 📖 Reading and immersing myself in different worlds through paper. ⚽ Sports keep me active and engaged with life. Finally, 🎧 Music is a constant companion, providing the perfect soundtrack for my studies and projects.
+I'm a big fan of 🌟 Anime (strawhat). I also love 📖 Reading and immersing myself in different worlds through paper. ⚽ Sports keep me active and engaged with life. Finally, 🎧 Music is a constant companion, providing the perfect soundtrack for my studies and projects.
 <br>
 <h3> // ... you are the CSS of my HTML -> F<sup>2</sup> <3! </h3>
