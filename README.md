@@ -41,4 +41,4 @@ I'm always open to learning new things and connecting with like-minded individua
 Beyond my academic pursuits: <br>
 I'm a big fan of 🌟 Anime (strawhat). I also love 📖 Reading and immersing myself in different worlds through paper. ⚽ Sports keep me active and engaged with life. Finally, 🎧 Music is a constant companion, providing the perfect soundtrack for my studies and projects.
 <br>
-<h3> // ... you are the CSS of my HTML -> F<sup>2</sup> <3! </h3>
+<h3> // ... you are the CSS of my HTML -> F<sup>2</sup> <3!! </h3>
