@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pinedah&label=PROFILE+VIEWS)
 
-Passionate Data Science 🦈 student currently in my second year of college. I believe in the transformative power of science and technology ⚛️ and their ability to make a profound impact on our world! I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I also love Mathematics 💖, it has always been my biggest passion. I'm fascinated by the endless possibilities that STEM Power 🤖 offers, and enjoy exploring new tools everyday!
+Passionate Data Science 🦈 student, currently in my second year of college. I believe in the transformative power of science and technology ⚛️ and their ability to make a profound impact on our world! I'm always eager to expand my knowledge and improve my skills, both as a data scientist/developer and as a person. I also love Mathematics 💖, it has always been my biggest passion. I'm fascinated by the endless possibilities that STEM Power 🤖 offers, and enjoy exploring new tools everyday!
 
 I'm always open to learning new things and connecting with like-minded individuals. 😼
 
