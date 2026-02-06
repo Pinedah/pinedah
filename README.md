@@ -38,15 +38,19 @@ I'm always open to learning new things and connecting with like-minded individua
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+<!--
 <a href="https://github.com/pinedah/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinedah&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinedah&layout=donut" />
 </a>
+-->
 
 <br><br>
 Beyond my academic pursuits: <br>
 I'm a big fan of 🌟 Anime (strawhat). I also love 📖 Reading and immersing myself in different worlds through paper. ⚽ Sports keep me active and engaged with life. Finally, 🎧 Music is a constant companion, providing the perfect soundtrack for my studies and projects.
 <br>
+<!--
 <h3> // ... you are the CSS of my HTML -> F<sup>2</sup> <3! </h3>
+-->
